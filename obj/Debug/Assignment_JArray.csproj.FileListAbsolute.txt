@@ -1,0 +1,7 @@
+E:\Mphasis\Day5\Assignment_JArray\Assignment_JArray\bin\Debug\Assignment_JArray.exe.config
+E:\Mphasis\Day5\Assignment_JArray\Assignment_JArray\bin\Debug\Assignment_JArray.exe
+E:\Mphasis\Day5\Assignment_JArray\Assignment_JArray\bin\Debug\Assignment_JArray.pdb
+E:\Mphasis\Day5\Assignment_JArray\Assignment_JArray\obj\Debug\Assignment_JArray.csproj.AssemblyReference.cache
+E:\Mphasis\Day5\Assignment_JArray\Assignment_JArray\obj\Debug\Assignment_JArray.csproj.CoreCompileInputs.cache
+E:\Mphasis\Day5\Assignment_JArray\Assignment_JArray\obj\Debug\Assignment_JArray.exe
+E:\Mphasis\Day5\Assignment_JArray\Assignment_JArray\obj\Debug\Assignment_JArray.pdb
